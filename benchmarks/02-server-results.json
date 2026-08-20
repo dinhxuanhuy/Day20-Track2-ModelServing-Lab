@@ -1,0 +1,29 @@
+{
+  "slots": 4,
+  "runs": [
+    {
+      "users": 10,
+      "requests": 0,
+      "failures": 0,
+      "fail_pct": 0.0,
+      "rps": 0.0,
+      "avg_ms": 0.0,
+      "p50_ms": 0.0,
+      "p95_ms": 0.0,
+      "p99_ms": 0.0,
+      "max_ms": 0.0
+    },
+    {
+      "users": 50,
+      "requests": 0,
+      "failures": 0,
+      "fail_pct": 0.0,
+      "rps": 0.0,
+      "avg_ms": 0.0,
+      "p50_ms": 0.0,
+      "p95_ms": 0.0,
+      "p99_ms": 0.0,
+      "max_ms": 0.0
+    }
+  ]
+}
